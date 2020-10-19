@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T10:30:25.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="NuDF0eYVr0cYvZ5pEv2y" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T10:31:40.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="lGm7wyCohTJQ_PBSH074" version="13.8.0" type="github">
   <diagram name="Page-1" id="8378b5f6-a2b2-b727-a746-972ab9d02e00">
     <mxGraphModel dx="2942" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1052,10 +1052,10 @@
           <mxGeometry x="745.5" y="420" width="101" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4FHNyfsBTji11Bc5UO98-462" value="Bug修复" style="shape=mxgraph.flowchart.process;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;opacity=50" vertex="1" parent="1">
-          <mxGeometry x="846.5" y="440" width="39" height="20" as="geometry" />
+          <mxGeometry x="827" y="440" width="59" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4FHNyfsBTji11Bc5UO98-463" value="用户验收" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" vertex="1" parent="1">
-          <mxGeometry x="886.5" y="460" width="161" height="20" as="geometry" />
+          <mxGeometry x="886" y="460" width="181" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4FHNyfsBTji11Bc5UO98-464" value="1" style="strokeColor=#DEEDFF;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="86.5" y="480" width="40" height="20" as="geometry" />

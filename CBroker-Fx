@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T10:25:55.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="ovlGWJVogE1B5er_q-w8" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T10:30:25.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="NuDF0eYVr0cYvZ5pEv2y" version="13.8.0" type="github">
   <diagram name="Page-1" id="8378b5f6-a2b2-b727-a746-972ab9d02e00">
     <mxGraphModel dx="2942" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -935,19 +935,19 @@
           <mxGeometry x="826.5" y="680" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4FHNyfsBTji11Bc5UO98-420" value="FX-Option Bug修复" style="shape=mxgraph.flowchart.process;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;opacity=50" vertex="1" parent="1">
-          <mxGeometry x="1426.5" y="720" width="140" height="20" as="geometry" />
+          <mxGeometry x="1386" y="720" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4FHNyfsBTji11Bc5UO98-423" value="FX-Option二轮测试" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" vertex="1" parent="1">
-          <mxGeometry x="1566.5" y="740" width="120" height="20" as="geometry" />
+          <mxGeometry x="1526" y="740" width="81" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4FHNyfsBTji11Bc5UO98-424" value="Bug修复" style="shape=mxgraph.flowchart.process;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;opacity=50" vertex="1" parent="1">
-          <mxGeometry x="1686.5" y="760" width="41" height="20" as="geometry" />
+          <mxGeometry x="1586.5" y="760" width="99" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4FHNyfsBTji11Bc5UO98-425" value="FX-Option用户验收" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" vertex="1" parent="1">
-          <mxGeometry x="1606" y="780" width="160" height="20" as="geometry" />
+        <mxCell id="4FHNyfsBTji11Bc5UO98-425" value="用户验收" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" vertex="1" parent="1">
+          <mxGeometry x="1666.5" y="780" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4FHNyfsBTji11Bc5UO98-426" value="FX-Option 功能改进及Bug修复" style="shape=mxgraph.flowchart.process;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;opacity=50" vertex="1" parent="1">
-          <mxGeometry x="1727.5" y="800" width="122.5" height="20" as="geometry" />
+        <mxCell id="4FHNyfsBTji11Bc5UO98-426" value="功能改进及Bug修复" style="shape=mxgraph.flowchart.process;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;opacity=50" vertex="1" parent="1">
+          <mxGeometry x="1708.25" y="800" width="58" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4FHNyfsBTji11Bc5UO98-427" value="二次验收" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=#000000;strokeWidth=2;opacity=50" vertex="1" parent="1">
           <mxGeometry x="1810.75" y="820" width="39.25" height="20" as="geometry" />

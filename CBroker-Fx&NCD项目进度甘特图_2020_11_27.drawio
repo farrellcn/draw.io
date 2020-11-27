@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T02:59:36.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="6BVG3DQbpPW1_-FZXdV9" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-27T03:30:09.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Qwg0oEygraEBsTK5ln-T" version="13.10.1" type="github">
   <diagram name="Page-1" id="8378b5f6-a2b2-b727-a746-972ab9d02e00">
     <mxGraphModel dx="2942" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -866,22 +866,22 @@
           <mxGeometry x="86.50000000000037" y="840.000000000001" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4FHNyfsBTji11Bc5UO98-419" value="FX-Option开发" style="shape=mxgraph.flowchart.process;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;opacity=100" parent="1" vertex="1">
-          <mxGeometry x="767" y="680" width="859" height="20" as="geometry" />
+          <mxGeometry x="757" y="680" width="829" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4FHNyfsBTji11Bc5UO98-420" value="FX-Option Bug修复" style="shape=mxgraph.flowchart.process;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;opacity=50" parent="1" vertex="1">
-          <mxGeometry x="1810.5" y="741" width="99.5" height="20" as="geometry" />
+          <mxGeometry x="1728.75" y="741" width="141.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4FHNyfsBTji11Bc5UO98-423" value="二轮测试" style="shape=mxgraph.flowchart.process;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=2;opacity=50;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="1951.75" y="761" width="58.25" height="20" as="geometry" />
+          <mxGeometry x="1871.38" y="761" width="98.62" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4FHNyfsBTji11Bc5UO98-424" value="Bug修复" style="shape=mxgraph.flowchart.process;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;opacity=50" parent="1" vertex="1">
-          <mxGeometry x="1990" y="781" width="60" height="20" as="geometry" />
+          <mxGeometry x="1950.5" y="781" width="59.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4FHNyfsBTji11Bc5UO98-425" value="用户验收" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
-          <mxGeometry x="2090.5" y="800" width="39" height="20" as="geometry" />
+          <mxGeometry x="2010.5" y="800" width="41" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4FHNyfsBTji11Bc5UO98-429" value="上线准备、上线" style="shape=mxgraph.flowchart.process;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;opacity=50" parent="1" vertex="1">
-          <mxGeometry x="2130" y="820" width="41" height="20" as="geometry" />
+          <mxGeometry x="2090.88" y="820" width="59.12" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4FHNyfsBTji11Bc5UO98-430" value="4 days" style="strokeColor=#B20000;fillColor=#e51400;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="446.5000000000021" y="840.0000000000009" width="80.00000000000028" height="20" as="geometry" />
@@ -1007,10 +1007,10 @@
           <mxGeometry x="1567" y="601" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jme6J1a--F_uehQXRode-271" value="集成测试" style="shape=mxgraph.flowchart.process;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="1666.5" y="700" width="42" height="20" as="geometry" />
+          <mxGeometry x="1586.5" y="701" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jme6J1a--F_uehQXRode-272" value="FX-Option一轮测试" style="shape=mxgraph.flowchart.process;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=2;opacity=50;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1708.88" y="721" width="141.12" height="20" as="geometry" />
+          <mxGeometry x="1666.5" y="720" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jme6J1a--F_uehQXRode-273" value="集成测试" style="shape=mxgraph.flowchart.process;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="1046.5" y="520" width="80" height="20" as="geometry" />
